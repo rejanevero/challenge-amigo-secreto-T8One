@@ -1,4 +1,4 @@
-
+<img src="https://i.ibb.co/sySbsHX/ff043987-239b-4661-bdb1-7f4ca6092c48.webp" alt="badge" border="0" align="center">
 <h1 align="center"> # 🎉 Jogo de Amigo Secreto 🎁 </h1>
 
 ---
